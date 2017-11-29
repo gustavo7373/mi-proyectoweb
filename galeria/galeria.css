@@ -1,0 +1,30 @@
+
+body {background-image: url(textura-de-madera-de-color-claro_1083-21.jpg); }
+.titulo {color:#FFFFFF;
+text-align-last: center;
+font-size: 75px; 
+background-color:#528fd5;
+
+}
+.madera {font-size: 35px; 
+color: black;
+text-align-last: center;
+ 
+ }
+
+ nav {background:#528fd5;
+	overflow:hidden; 
+
+}
+ nav ul {list-style:none; 
+}
+ nav ul li { float:left;
+
+}
+ nav ul li a {
+	padding:10px 20px;
+	display:block;
+	color:#fff;
+	text-decoration:none; 
+}
+ nav ul li a:hover {background:#19879F;
