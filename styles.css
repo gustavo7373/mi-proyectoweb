@@ -4,9 +4,13 @@
 	padding:0px;
 
 }
+
 h1 {text-align:center;
-color: #1E108A;
-background-color: #1C5B78;
+font-family: Vegur, 'PT Sans', Verdana, Sans-serif;
+font-size: 50px;
+margin: 20px 10px;
+color: #441205;
+background-color: #2C270E;
 text-shadow:3px 1px 1px black;
    }
 body {background:#e6e6e6;
@@ -63,5 +67,12 @@ footer {background:#000;
  font-family: 'Open Sans';
  width: 89.6%;
  background: #335F5D;
- border: 2px solid black;
+ border: 2px solid black;}
  
+.sss  { 
+ background-image: url(../12_gtavpc_03272015.jpg);
+ padding:5px 400px ;
+ width: 100%;
+ background: #11235D;
+ border: 1px solid #787B81;
+text-shadow:3px 1px 1px;}
